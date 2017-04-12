@@ -28,7 +28,7 @@ Make an Image out of a string of text.
 
 *	Note that Chinese words is generally more colorful than pure alphanums.
 
-*	There is a detailed Blog [here](https://jjayyyyyyy.github.io/).
+*	[There is a detailed Blog here](https://jjayyyyyyy.github.io/2017/04/10/bmp_maker.html).
 
 ##	Ref
 
