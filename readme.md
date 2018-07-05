@@ -1,6 +1,6 @@
 Make an Image out of a string of text.
 
-![badge](https://img.shields.io/badge/Python-3.4%2B-brightgreen.svg)
+![badge](https://github.com/jJayyyyyyy/bmp_maker/blob/master/assets/Python-3.4%2B-brightgreen.svg)
 
 ##	Intro
 
